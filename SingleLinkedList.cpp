@@ -94,7 +94,7 @@ Linkedlist() {
     }
 };
 
-int main() {
+int main () {
     Linkedlist mhs;
     int nim;
     char ch;
