@@ -123,7 +123,7 @@ int main () {
                 break;
             }
             cout << endl
-                 << "Masukan no mahasiswa yang akan dihapus: ";
+                 << "Masukan no mahasiswa yang akan dihapus: " ; 
             cin >> nim;
             if (mhs.delNode(nim) == false)
                 cout << endl
