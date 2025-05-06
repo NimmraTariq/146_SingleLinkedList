@@ -5,7 +5,7 @@ using namespace std;
 // membuat struct node 
 class Node {
 public: 
-    int noMhs;
+    int noMhs; 
     Node *next;
 };
 
