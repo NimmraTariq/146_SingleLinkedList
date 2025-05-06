@@ -12,7 +12,7 @@ public:
 class Linkedlist {
     Node *START;
 public:
-    Linkedlist() {
+Linkedlist() {
         START = NULL;
     }
 
