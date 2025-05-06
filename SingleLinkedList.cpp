@@ -97,7 +97,7 @@ Linkedlist() {
 int main () {
     Linkedlist mhs;
     int nim ;
-    char ch;
+    char ch ;
     while (1) {
         cout << endl
              << "MENU";
