@@ -105,8 +105,8 @@ int main () {
              << "1. Menambah data ke dalam list" << endl;
         cout << "2. Menghapus data dari dalam list" << endl;
         cout << "3. Menampilkan data dari dalam list" << endl;
-        cout << "4. Mencari data dari dalam list" << endl;
-        cout << "5. Keluar" << endl;
+        cout << "4. Mencari data dari dalam list" << endl ; 
+        cout << "5. Keluar" << endl ;
         cout << endl
              << "Masukan pilihan (1-5): ";
 
