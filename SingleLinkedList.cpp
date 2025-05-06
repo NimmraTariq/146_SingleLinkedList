@@ -166,7 +166,7 @@ int main () {
         break;
 
         default: {
-            cout << "Pilihan salah!" << endl;
+            cout << "Pilihan salah!" << endl ;
         }
         break;
         }
