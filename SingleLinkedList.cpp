@@ -107,7 +107,7 @@ int main () {
         cout << "3. Menampilkan data dari dalam list" << endl;
         cout << "4. Mencari data dari dalam list" << endl ; 
         cout << "5. Keluar" << endl ;
-        cout << endl
+        cout << endl 
              << "Masukan pilihan (1-5): ";
 
         cin >> ch;
