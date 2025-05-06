@@ -76,7 +76,7 @@ Linkedlist() {
             previous->next = current->next;
 
         delete current;
-        return true;
+        return true ;
     }
 
     void traverse() {
